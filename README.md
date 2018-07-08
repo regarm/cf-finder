@@ -12,5 +12,9 @@ Setup dev environment
 * fork and clone
 * ``npm install``
 * ``npm start`` #(starts dev server on 8080 port)
-* Push after running ``npm run-script build``
+* Push after running ``npm run build``
 * Make a PR
+
+
+Demo
+[Demo link](https://www.regarm.in/cf-finder/index.html)
